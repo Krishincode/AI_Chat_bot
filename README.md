@@ -7,7 +7,7 @@ The purpose of this project is to demonstrate basic API integration with Python 
 
 ## Requirements
 
-* Python 3.8 or higher
+* Python 3.14 
 * OpenAI Python library
 
 Install the required library:
